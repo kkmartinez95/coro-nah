@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coro-nah/precache-manifest.574b4957ab0c29bcfc0b426ff580d124.js"
+  "/coro-nah/precache-manifest.f306c6c4f91552a544cb7d595ca9cdb8.js"
 );
 
 self.addEventListener('message', (event) => {
