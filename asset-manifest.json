@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coro-nah/static/css/main.565319d6.chunk.css",
+    "main.js": "/coro-nah/static/js/main.d8aa1f96.chunk.js",
+    "main.js.map": "/coro-nah/static/js/main.d8aa1f96.chunk.js.map",
+    "runtime-main.js": "/coro-nah/static/js/runtime-main.190f9974.js",
+    "runtime-main.js.map": "/coro-nah/static/js/runtime-main.190f9974.js.map",
+    "static/js/2.41483f76.chunk.js": "/coro-nah/static/js/2.41483f76.chunk.js",
+    "static/js/2.41483f76.chunk.js.map": "/coro-nah/static/js/2.41483f76.chunk.js.map",
+    "index.html": "/coro-nah/index.html",
+    "precache-manifest.574b4957ab0c29bcfc0b426ff580d124.js": "/coro-nah/precache-manifest.574b4957ab0c29bcfc0b426ff580d124.js",
+    "service-worker.js": "/coro-nah/service-worker.js",
+    "static/css/main.565319d6.chunk.css.map": "/coro-nah/static/css/main.565319d6.chunk.css.map",
+    "static/js/2.41483f76.chunk.js.LICENSE.txt": "/coro-nah/static/js/2.41483f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.190f9974.js",
+    "static/js/2.41483f76.chunk.js",
+    "static/css/main.565319d6.chunk.css",
+    "static/js/main.d8aa1f96.chunk.js"
+  ]
+}
