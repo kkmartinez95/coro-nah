@@ -25,9 +25,9 @@ class App extends React.Component {
       viewport: {
         latitude: 39.381266,
         longitude: -97.922211,
-        width: "100vw",
-        height: "100vw",
-        zoom: 3
+        width: "80vw",
+        height: "80vw",
+        zoom: 4
       },
       selectedState: null
     };
@@ -95,7 +95,7 @@ class App extends React.Component {
                     this.setState({ selectedState: null });
                   }}
                 >
-                  <div>
+                  <div id="info">
                     <h2>{this.state.selectedState.state}</h2>
                     <p>Cases: {this.state.selectedState.cases} </p>
                   </div>
